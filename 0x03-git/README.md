@@ -1,2 +1,2 @@
 my second commit
-my onlu README.md Edit
+my only README.md Edit.
